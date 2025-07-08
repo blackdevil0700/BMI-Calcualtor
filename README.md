@@ -7,6 +7,9 @@ A simple, interactive Body Mass Index (BMI) calculator built using HTML, CSS, an
 ✅ Clean and responsive UI
 ✅ Instant calculation without page reload
 
+
+
+
 🚀 Demo
 
 🌐 Technologies Used
@@ -17,22 +20,19 @@ CSS for styling and layout
 JavaScript for dynamic calculation and validation
 
 🧮 How It Works
+
 1️⃣ User enters height (cm) and weight (kg).
+
 2️⃣ Click Calculate (or Submit).
+
 3️⃣ The script calculates BMI using:
 
-BMI
-=
-weight (kg)
-(
-height (m)
-)
-2
-BMI= 
-(height (m)) 
-2
- 
-weight (kg)
+
+
+
+BMI=weight (kg)(height (m))2
+
+
 ​
  
 4️⃣ Displays your BMI and the category:
